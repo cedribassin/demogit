@@ -1,2 +1,2 @@
 # demogit
-training
+training pour l'instant nickel
